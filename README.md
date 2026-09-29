@@ -418,7 +418,7 @@ Manage User Permissions
 
 **Rishab Das**
 
-B.Sc. Data Science
+M.Sc. Data Science
 
 ---
 
