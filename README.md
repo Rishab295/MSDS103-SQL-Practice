@@ -167,7 +167,7 @@ The SQL script progresses from **database creation and table design to advanced 
 * Revenue by department
 * Top 5 products
 * Revenue by year
-* Revenue by month
+* Revenue by month 
 
 ### 11. TCL – Transaction Control Language
 
