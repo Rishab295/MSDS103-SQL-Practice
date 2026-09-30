@@ -204,7 +204,7 @@ The project applies SQL to practical business questions.
 Order Value = Quantity × Product Price
 ```
 
-### Revenue Analysis
+### Revenue Analysiss
 
 ```text
 Orders
